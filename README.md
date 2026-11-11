@@ -1,5 +1,6 @@
 # Hi there, I'm khantiphongmokmeechai <span type="placeholder" placeholder-type="person"></span> 👋
 
+จงสู้เท่าที่เราไหว
 ### 👨‍💻 About Me
 🎓 Computer Science Student at University of Phayao
 
